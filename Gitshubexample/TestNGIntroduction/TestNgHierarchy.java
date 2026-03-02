@@ -38,6 +38,10 @@ public class TestNgHierarchy {
     {
         System.out.println("This is Test 4");
     }
+ @Test
+    public  void T5()
+    {
+        System.out.println("This is Test 5");
 
 
 }
