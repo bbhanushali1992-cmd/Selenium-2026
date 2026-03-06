@@ -45,3 +45,11 @@ public class TestNgHierarchy {
 
 
 }
+     @Test
+    public  void T6()
+    {
+        System.out.println("This is Test 6");
+
+
+}
+
